@@ -1,4 +1,4 @@
-.ve-header "The Musical History of Perfume" wc:Ja'ques'_the_rival_of_Farina's_eau_de_cologne._Sold_here_-_J._Mayer_%26_Co._Lith._4_State_St._Boston._LCCN2018646807.jpg "Why We Talk About Perfume 'Notes' Today" sticky
+.ve-header "The Musical History of Perfume" wc:The_Adoration_of_the_Golden_Calf_(SM_sg350).png "Why We Talk About Perfume 'Notes' Today" sticky
 
 # The Musical History of Perfume  
 
@@ -8,6 +8,7 @@ Perfumes have been around for thousands of years. ==Mesopotamians=={Q8807346} ha
 
 .ve-media wc:Carum_carvi_-_Köhler–s_Medizinal-Pflanzen-172.jpg left height=530px width=350px
 
+
 While these two methods of scent extraction are still used today, they have notable limitations. *Distillation* is difficult to perform on more fragile materials. It is thus often reserved for hardier substances like cedar, ==caraway=={Q26811}, lemon, ==bergamot=={Q109196}, and other barks, leaves, seeds, and fruits which were better able to withstand the distillation process.  *Enfleurage* is labor intensive, expensive, and has a low yield. As a result, for most of history perfume was deployed in very specific circumstances: in religious ceremonies and by members of the upper class to mask poor hygiene or distinguish themselves from the rest of society. This changed in the latter half of the nineteenth century when, following a series of discoveries in the chemical, technological, and industrial spaces, perfume became an object accessible to the larger public and subsequently transformed from a marker of the elite into a widely distributed commodity of the middle class.
 
 ##Nineteenth-century Discoveries in Chemical Synthesis 
@@ -16,15 +17,15 @@ While these two methods of scent extraction are still used today, they have nota
 
 The foundations for this transformation were laid in 1828, when Friedrich Wöhler, a German chemist, synthesized ==urea=={Q48318} by evaporating a solution of ammonium cyanate, thereby establishing that organic compounds could be synthesized from inorganic substances. By the 1870s, chemists were developing artificial scents like piperonal (which smells like ==heliotrope=={Q158082} flowers), ==coumarin=={Q111812} (the scent of freshly mown hay), vanillin (vanilla), and musk, first in smaller amounts in the lab and then in industrial bulk quantities in the 1880s. 
 
-The discovery with these new synthetic compounds paired with the introduction of steam power in perfume factories radically altered the perfume industry. Perfume manufacturers were no longer at the mercy of expensive and lengthy supply chains which imported ylang-ylang from the ==Philippines=={12, 123}, Geranium from ==Réunion=={Q17070} and ==Algeria=={28, 1}, citron from ==Sri Lanka=={7, 81}, and musk from ==musk-cats=={Q198342} in ==China=={35, 105} to factories in the south of France. It was now not only possible, but faster and cheaper to produce fragrances at home. 
+The discovery with these new synthetic compounds paired with the introduction of steam power in perfume factories radically altered the perfume industry. Perfume manufacturers were no longer at the mercy of expensive and lengthy supply chains which imported ylang-ylang from the ==Philippines=={14.60352,120.96909 9}, Geranium from ==Réunion=={-21.10756,55.44525 8} and ==Algeria=={36.88401,3.04321 8}, citron from ==Sri Lanka=={7.12811,79.81023 7}, and musk from ==musk-cats=={Q198342} in ==China=={39.90289,116.37613 10} to factories in the south of ==France=={43.3072,4.07317 8}. It was now not only possible, but faster and cheaper to produce fragrances at home. 
 
-.ve-map zoom=2 
+.ve-map Q874 zoom=3 
 
 ##Early Classifications of Perfume 
 
 .ve-media wc:Try_Vio-Violet%2C_a_new_Lundborg_perfume._-_10559727344.jpg right height=500px width=350px
 
-Early classifications of scent had only a handful of categories with often vague or confusing labels. Some scent theorists proposed dividing odors into two classes: agreeable and disagreeable. The Swedish botanist Carl Linnaeus (1707-1778) divided fragrances into seven categories: aromatic, fragrant, ambrosial, alliaceous (that is, relating to ==allium=={Q49391} plants like the onion), fetid, repulsive, and nauseous. French chemist Antoine-Francois de Fourcroy (1755-1809) suggested five categories of odor: “muquous,” “fugacious oily,” “volatile oily,” “aromatic and acid,” and “hydrosulphurous.”[^2] There were many issues with these proposed classification groups, which is likely why they were never employed in the perfume-manufacturing space. The perfumer Eugene Rimmel (1821-1887) declared these categories to be “more theoretical than practical,” especially since they did not allow specification for how the odoriferous groups related to one another.[^3]
+Early classifications of scent had only a handful of categories with often vague or confusing labels. Some scent theorists proposed dividing odors into only two classes: agreeable and disagreeable. The Swedish botanist Carl Linnaeus (1707-1778) organized fragrances into seven categories: aromatic, fragrant, ambrosial, alliaceous (that is, relating to ==allium=={Q49391} plants like the onion), fetid, repulsive, and nauseous. French chemist Antoine-Francois de Fourcroy (1755-1809) suggested five categories of odor: “muquous,” “fugacious oily,” “volatile oily,” “aromatic and acid,” and “hydrosulphurous.”[^2] There were many issues with these proposed classification groups, which is likely why they were never employed in the perfume-manufacturing space. The perfumer Eugene Rimmel (1821-1887) declared these categories to be “more theoretical than practical,” especially since they did not allow specification for how the odoriferous groups related to one another.[^3]
 
 ##Sound, Color, Fragrance: Synaesthetic Models for Scent 
 
@@ -39,7 +40,7 @@ Piesse became fascinated by Field’s theories of musically harmonic color, inte
 
 >*“Scents, like sounds, appear to influence the olfactory nerve in certain definite degrees. There is, as it were, an octave of odors like an octave in music; certain odors coincide, like the keys of an instrument."[^6]*
 
-Piesse argued, noting that harmony and discord in fragrance could similarly be defined in perfumery by building “chords” of related odors. Piesse pointed out that perfumers could use the *odophone* to build their perfumes in correspondence with the rules of music theory and Field’s theory of color composition. [Finish by saying that we still use this theory today]
+Piesse argued that harmony and discord in fragrance could similarly be defined in perfumery by building “chords” of related odors. He directed perfumers to use the *odophone* to build their perfumes in correspondence with the rules of music theory and Field’s theory of color composition. Subsequent fragrance designers adopted Piesse's theories and came up with a framework of three layers: the "top notes," which are the scents most immediately noticeable; "heart notes," which appear just as the top notes are fading away; and "base notes," which form the foundation of the perfume and last the longest. This method of using a chord of "notes" is used by perfume houses all over the world today.
 
 [^1]: Jane Recker, "[Scientists Recreate Cleopatra's Favorite Perfume](https://www.smithsonianmag.com/smart-news/scientists-recreated-cleopatra-favorite-perfume-180980126/)," *Smithsonian Magazine* May 23, 2022.
 [^2]: Hippolyte Dussauce, *[A Practical Guide for the Perfumer](https://www.google.com/books/edition/A_practical_Guide_for_the_Perfumer_being/ADVdAAAAcAAJ?hl=en&gbpv=1)* (Philadelphia: Henry Carey Baird Industrial Publisher, 1868), 29.
