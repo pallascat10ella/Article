@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "In \"The Meeting of Antony and Cleopatra,\" Lawrence Alma-Tadema conveys the intoxicating fragrance of Cleopatra with roses and petals strewn about the vessel. In the corner, incense wafts from gilded censers.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/bdb890febe67e733cdc91f28d3d7a437.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:4.166666507720947,1748.6873779296875,1124.9999594688416,975.0001220703125"
+      },
+      "id": "277be809"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b67d8db6"
+  }
+]
