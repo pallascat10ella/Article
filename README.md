@@ -1,4 +1,4 @@
-.ve-header "The Musical History of Perfume" wc:The_Adoration_of_the_Golden_Calf_(SM_sg350).png "Why We Talk About Fragrance 'Notes' Today" sticky
+.ve-header "The Musical History of Perfume" wc:Harrison's_handkerchief_extracts_Apollos_W._Harrison_No._10_South_7th_Street_Philadelphia_-_-_Alphonse_Bigot_del._;_designed_and_drawn_on_stone_by_Alphonse_Bigot._LCCN2014645201.jpg "Why We Talk About Fragrance 'Notes' Today" sticky
 
 # The Musical History of Perfume  
 
