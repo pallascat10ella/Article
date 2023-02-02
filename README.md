@@ -1,4 +1,4 @@
-.ve-header "The Musical History of Perfume" wc:The_Adoration_of_the_Golden_Calf_(SM_sg350).png "Why We Talk About Perfume 'Notes' Today" sticky
+.ve-header "The Musical History of Perfume" wc:The_Adoration_of_the_Golden_Calf_(SM_sg350).png "Why We Talk About Fragrance 'Notes' Today" sticky
 
 # The Musical History of Perfume  
 
