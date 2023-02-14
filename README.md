@@ -1,6 +1,6 @@
-.ve-header "The Musical History of Perfume" wc:Harrison's_handkerchief_extracts_Apollos_W._Harrison_No._10_South_7th_Street_Philadelphia_-_-_Alphonse_Bigot_del._;_designed_and_drawn_on_stone_by_Alphonse_Bigot._LCCN2014645201.jpg "Why We Talk About Fragrance 'Notes' Today" sticky
+.ve-header "Making Scents of Music" wc:Romantic_days_in_old_Boston;_the_story_of_the_city_and_of_its_people_during_the_nineteenth_century_(1922)_(14776271662).jpg "Smell, Synaesthesia, and Why We Talk About Fragrance 'Notes' Today" sticky
 
-# The Musical History of Perfume  
+# Making Scents of Music 
 
 .ve-media wc:Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg height=400px cover 4d3e808b4d3e808b4d3e808b right
 
