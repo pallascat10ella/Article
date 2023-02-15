@@ -13,8 +13,6 @@ While these two methods of scent extraction are still used today, they have nota
 
 ##Nineteenth-century Discoveries in Chemical Synthesis 
 
-.ve-media wc:Friedrich_Wöhler_Litho.jpg left height=600px cover
-
 The foundations for this transformation were laid in 1828, when Friedrich Wöhler, a German chemist, synthesized ==urea=={Q48318} by evaporating a solution of ammonium cyanate, thereby establishing that organic compounds could be synthesized from inorganic substances. By the 1870s, chemists were developing artificial scents like piperonal (which smells like ==heliotrope=={Q158082} flowers), ==coumarin=={Q111812} (the scent of freshly mown hay), vanillin (vanilla), and musk, first in smaller amounts in the lab and then in industrial bulk quantities in the 1880s. 
 
 The discovery with these new synthetic compounds paired with the introduction of steam power in perfume factories radically altered the perfume industry. Perfume manufacturers were no longer at the mercy of expensive and lengthy supply chains which imported ylang-ylang from the ==Philippines=={14.60352,120.96909 9}, Geranium from ==Réunion=={-21.10756,55.44525 8} and ==Algeria=={36.88401,3.04321 8}, citron from ==Sri Lanka=={7.12811,79.81023 7}, and musk from ==musk-cats=={Q198342} in ==China=={39.90289,116.37613 10} to factories in the south of ==France=={43.3072,4.07317 8}. It was now not only possible, but faster and cheaper to produce fragrances at home. 
