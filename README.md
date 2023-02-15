@@ -1,6 +1,6 @@
 .ve-header "Making Scents of Music" wc:Romantic_days_in_old_Boston;_the_story_of_the_city_and_of_its_people_during_the_nineteenth_century_(1922)_(14776271662).jpg "Smell, Synaesthesia, and Why We Talk About Fragrance 'Notes' Today" sticky
 
-# Making Scents of Music 
+# Making Scents of Music
 
 .ve-media wc:Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg height=400px cover 4d3e808b4d3e808b4d3e808b right
 
@@ -9,9 +9,11 @@ Perfumes have been around for thousands of years. ==Mesopotamians=={Q8807346} ha
 .ve-media wc:Carum_carvi_-_Köhler–s_Medizinal-Pflanzen-172.jpg left height=530px width=350px
 
 
-While these two methods of scent extraction are still used today, they have notable limitations. *Distillation* is difficult to perform on more fragile materials. It is thus often reserved for hardier substances like cedar, ==caraway=={Q26811}, lemon, ==bergamot=={Q109196}, and other barks, leaves, seeds, and fruits which were better able to withstand the distillation process.  *Enfleurage* is labor intensive, expensive, and has a low yield. As a result, for most of history perfume was deployed in very specific circumstancesb67d8db6b67d8db6In "The Meeting of Antony and Cleopatra," Lawrence Alma-Tadema conveys the intoxicating fragrance of Cleopatra with roses and petals strewn about the vessel. In the corner, incense wafts from gilded censersIn "The Meeting of Antony and Cleopatra," Lawrence Alma-Tadema conveys the intoxicating fragrance of Cleopatra with roses and petals strewn about the vessel. In the corner, incense wafts from gilded censers: in religious ceremonies and by members of the upper class to mask poor hygiene or distinguish themselves from the rest of society. This changed in the latter half of the nineteenth century when, following a series of discoveries in the chemical, technological, and industrial spaces, perfume became an object accessible to the larger public and subsequently transformed from a marker of the elite into a widely distributed commodity of the middle class.
+While these two methods of scent extraction are still used today, they have notable limitations. *Distillation* is difficult to perform on more fragile materials. It is thus often reserved for hardier substances like cedar, ==caraway=={Q26811}, lemon, ==bergamot=={Q109196}, and other barks, leaves, seeds, and fruits which were better able to withstand the distillation process.  *Enfleurage* is labor intensive, expensive, and has a low yield. As a result, for most of history perfume was deployed in very specific circumstances: in religious ceremonies and by members of the upper class to mask poor hygiene or distinguish themselves from the rest of society. This changed in the latter half of the nineteenth century when, following a series of discoveries in the chemical, technological, and industrial spaces, perfume became an object accessible to the larger public and subsequently transformed from a marker of the elite into a widely distributed commodity of the middle class.
 
 ##Nineteenth-century Discoveries in Chemical Synthesis 
+
+.ve-media wc:Friedrich_Wöhler_Litho.jpg left height=600px cover
 
 The foundations for this transformation were laid in 1828, when Friedrich Wöhler, a German chemist, synthesized ==urea=={Q48318} by evaporating a solution of ammonium cyanate, thereby establishing that organic compounds could be synthesized from inorganic substances. By the 1870s, chemists were developing artificial scents like piperonal (which smells like ==heliotrope=={Q158082} flowers), ==coumarin=={Q111812} (the scent of freshly mown hay), vanillin (vanilla), and musk, first in smaller amounts in the lab and then in industrial bulk quantities in the 1880s. 
 
@@ -39,7 +41,6 @@ Piesse became fascinated by Field’s theories of musically harmonic color, inte
 >*“Scents, like sounds, appear to influence the olfactory nerve in certain definite degrees. There is, as it were, an octave of odors like an octave in music; certain odors coincide, like the keys of an instrument."[^6]*
 
 Piesse argued that harmony and discord in fragrance could similarly be defined in perfumery by building “chords” of related odors. He directed perfumers to use the *odophone* to build their perfumes in correspondence with the rules of music theory and Field’s theory of color composition. Subsequent fragrance designers adopted Piesse's theories and came up with a framework of three layers: the "top notes," which are the scents most immediately noticeable; "heart notes," which appear just as the top notes are fading away; and "base notes," which form the foundation of the perfume and last the longest. This method of using a chord of "notes" is used by perfume houses all over the world today.
-
 [^1]: Jane Recker, "[Scientists Recreate Cleopatra's Favorite Perfume](https://www.smithsonianmag.com/smart-news/scientists-recreated-cleopatra-favorite-perfume-180980126/)," *Smithsonian Magazine* May 23, 2022.
 [^2]: Hippolyte Dussauce, *[A Practical Guide for the Perfumer](https://www.google.com/books/edition/A_practical_Guide_for_the_Perfumer_being/ADVdAAAAcAAJ?hl=en&gbpv=1)* (Philadelphia: Henry Carey Baird Industrial Publisher, 1868), 29.
 [^3]: Eugene Rimmel, "[On the Art of Perfumery, Its History, and Commercial Development,](https://www.jstor.org/stable/23851476)" *Journal of the Society of the Arts* May 18, 1860, 517-518.
